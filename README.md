@@ -32,6 +32,7 @@ To turn it on, type this in Terminal:
     > sudo touch /private/var/db/.AccessibilityAPIEnabled
 
 To then disable it, type this:
+    
     > sudo rm /private/var/db/.AccessibilityAPIEnabled
 
 
